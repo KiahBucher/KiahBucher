@@ -10,18 +10,15 @@
 
  - [Link Title](Link)
 
-
 <h2>📜 Certifications:</h2>
 
   - [PCCET](Link)
   - [Network+](Link)
   - [Splunk Certified Core User](Link)
   - [AZ-900](Link)
-
   
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [linkedin]: https://www.linkedin.com/in/kiahbucher/
-[X]: https://www.X.com/
