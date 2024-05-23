@@ -13,7 +13,7 @@
 <h2>📜 Certifications:</h2>
 
   - [PCCET](Link)
-  - [Network+](Link)
+  - [Network+]([Link](https://github.com/KiahBucher/Certifications/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf))
   - [Splunk Certified Core User](Link)
   - [AZ-900](Link)
   
